@@ -1,5 +1,4 @@
-# Diet-Formulation-Calculator-
-## Assessment of Oral Albendazole and Fumagillin in the Treatment of _Pseudoloma neurophilia_ in Adult Zebrafish 
+# Assessment of Oral Albendazole and Fumagillin in the Treatment of _Pseudoloma neurophilia_ in Adult Zebrafish 
 
 **Elizabeth S Lavin, Rodman G Getchell, Erin K Daugherity, Michael L Kent, Adam D Frosolone, Renata Ivanek (Currently in preparation)**
 
